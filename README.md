@@ -29,4 +29,8 @@
          than open another terimnal window and type
          ./client
          
-         
+        
+   ## pics of running:
+   ![Screenshot from 2022-04-15 21-33-21](https://user-images.githubusercontent.com/93948749/163611940-cf4ca459-bf0e-40b5-b8a1-376d62b5c1db.png)
+
+   
